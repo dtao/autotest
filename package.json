@@ -1,0 +1,8 @@
+{
+  "name": "Autotest",
+  "description": "Like other testing tools, but way easier",
+  "version": "0.1.0",
+  "dependencies": {
+    "mustache": ">= 0.8.0"
+  }
+}
